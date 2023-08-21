@@ -5,5 +5,7 @@ public class GloomyDay {
 
         System.out.println("hello git!");
         System.out.println("Merge Conflict!");
+
+        System.out.println("push commit!");
     }
 }
