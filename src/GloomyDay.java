@@ -7,5 +7,7 @@ public class GloomyDay {
         System.out.println("Merge Conflict!");
 
         System.out.println("push commit!");
+
+        System.out.println("merge with local repository from the remote one");
     }
 }
